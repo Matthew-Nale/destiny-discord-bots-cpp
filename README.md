@@ -1,2 +1,3 @@
 # destiny-discord-bots-cpp
-C++ port of the Destiny Discord Bots
+
+This serves as a basic C++ port of my Destiny Discord Bots project. This is still undergoing heavy progress, and will aim to be caught up with the most recent version of the main repo.
